@@ -1,0 +1,9 @@
+D:\NastyaTraining\Day5\Task1Polynomial.Tests\bin\Debug\Task1Polynomial.Tests.dll
+D:\NastyaTraining\Day5\Task1Polynomial.Tests\bin\Debug\Task1Polynomial.Tests.pdb
+D:\NastyaTraining\Day5\Task1Polynomial.Tests\bin\Debug\nunit.framework.dll
+D:\NastyaTraining\Day5\Task1Polynomial.Tests\bin\Debug\Polynomial.dll
+D:\NastyaTraining\Day5\Task1Polynomial.Tests\bin\Debug\Polynomial.pdb
+D:\NastyaTraining\Day5\Task1Polynomial.Tests\bin\Debug\nunit.framework.xml
+D:\NastyaTraining\Day5\Task1Polynomial.Tests\obj\Debug\Task1Polynomial.Tests.csprojResolveAssemblyReference.cache
+D:\NastyaTraining\Day5\Task1Polynomial.Tests\obj\Debug\Task1Polynomial.Tests.dll
+D:\NastyaTraining\Day5\Task1Polynomial.Tests\obj\Debug\Task1Polynomial.Tests.pdb

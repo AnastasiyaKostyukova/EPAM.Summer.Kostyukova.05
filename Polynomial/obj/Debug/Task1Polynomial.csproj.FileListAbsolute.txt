@@ -1,0 +1,5 @@
+D:\NastyaTraining\Day5\Polynomial\bin\Debug\Polynomial.dll
+D:\NastyaTraining\Day5\Polynomial\bin\Debug\Polynomial.pdb
+D:\NastyaTraining\Day5\Polynomial\obj\Debug\Task1Polynomial.csprojResolveAssemblyReference.cache
+D:\NastyaTraining\Day5\Polynomial\obj\Debug\Polynomial.dll
+D:\NastyaTraining\Day5\Polynomial\obj\Debug\Polynomial.pdb
